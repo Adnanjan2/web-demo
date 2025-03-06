@@ -1,0 +1,40 @@
+.two{
+    display: flex;
+    height: 400px;
+    width: 1365px;
+    position: relative;
+   background-image: url(bacground.jpg);
+}
+.div{
+  width: 240px;
+    height: 300px;
+    display: inline-block;
+    margin: 40px;
+    margin-top: 80px;
+    border-radius: 20px;
+    
+
+}
+nav :hover{
+  color: rgb(201, 11, 11);
+}
+input{
+  position: relative;
+}
+#bu{
+  position: absolute;
+  right: 24px;
+}
+.head a:hover{
+  color: red;
+}
+img{
+  border: 2px solid red;
+  border-radius: 20px 0px 20px 0px ;
+}
+h3{
+  color: white;
+  position:absolute;
+  margin-left: 600px;
+  font-size: 25pt;
+}

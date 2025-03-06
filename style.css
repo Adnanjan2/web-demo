@@ -1,0 +1,59 @@
+.head{
+    background-image: url(SUNSET\ -2K.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+h2{
+    color: rgb(50, 50, 161);
+    font-size:xx-large ;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 2px 3px 3px red;
+}
+.first{
+    float: right;
+    margin-right: 30px;
+    height: 30px;
+    border: none; 
+}
+
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-size: large;
+
+}
+ul{
+    display: inline;
+    float: right;
+    padding-right: 30px;
+}
+li{
+    display: inline;
+}
+.second{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+input{
+    width: 510px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+}
+button{
+    background-color: orangered;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+   color: white;
+   font-weight: bold;
+   border: none;
+}
+
